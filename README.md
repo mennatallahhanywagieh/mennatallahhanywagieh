@@ -1,10 +1,9 @@
 <h2> Hi there! I'm Mennatallah Hany Wagieh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/0irIDXCtXpsHlgGq2p/giphy.gif" width="280">
 
 <p><em>🎓 BIS (Business Information Systems) English Section Student at <a href="#">Modern Academy for Engineering and Technology</a><br>
 📊 Self-Taught Data Analyst & AI Engineering Enthusiast<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
-
 [![LinkedIn: Mennatallah Hany](https://img.shields.io/badge/-Mennatallah_Hany-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
 [![GitHub: Mennatallah](https://img.shields.io/github/followers/Mennatallah?label=follow&style=social)](https://github.com/)
 
